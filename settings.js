@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "Your name"
-global.ytname = "YT: TechGod"
-global.socialm = "GitHub: techgod143"
+global.ownernomer = "94753335072"
+global.ownername = "white tiger"
+global.ytname = "YT: white tiger modz inc"
+global.socialm = "GitHub: whitetigermindinc"
 global.location = "India, up, rampur"
 
-global.ownernumber = '910000000000'  //creator number
-global.ownername = 'your name here' //creatoe name
-global.botname = 'Tech God V7' //name of the bot
+global.ownernumber = '94753335072'  //creator number
+global.ownername = 'white tiger modz inc' //creatoe name
+global.botname = 'white tiger crasher' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -21,7 +21,7 @@ global.themeemoji = '🪀'
 global.wm = "Tech God Bot."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029Vaip2EyKrWQty0u6hy26'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
